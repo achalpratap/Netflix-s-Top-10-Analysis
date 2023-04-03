@@ -1,4 +1,4 @@
-
+# Netflix's Top 10 Analysis
 <p align="center">
   <img src="https://user-images.githubusercontent.com/125743309/229554977-0806c267-acc8-494b-9263-5841d4e5e2a6.png" alt="Description of the image">
 </p>
